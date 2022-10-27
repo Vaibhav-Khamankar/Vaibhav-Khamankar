@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaibhav-Khamankar
-- 👀 I’m interested in GAN, Machine Learning, Image Processing, OpenCv and Python.
+- 👀 I’m interested in Deep Learning, Machine Learning and Computer Vision.
 - 🌱 I’m currently learning " Visual Information and Embedded Systems" at IIT Kharagpur 
 - 📫 How to reach me : drop a mail at vaibhav.khamankarabc@gmail.com
 
